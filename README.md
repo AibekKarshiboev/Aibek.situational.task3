@@ -1,4 +1,9 @@
 # Aibek.situational.task3!
+
+
+
+
+
 [Снимок экрана 2024-06-03 005717](https://github.com/AibekKarshiboev/Aibek.situational.task3/assets/81102375/3cbdbacf-2480-4311-b888-d7c9137ba611)
 ![Снимок экрана 2024-06-03 005728](https://github.com/AibekKarshiboev/Aibek.situational.task3/assets/81102375/9ffe7929-91b0-48cb-a22b-675503454460)
 ![Снимок экрана 2024-06-03 005744](https://github.com/AibekKarshiboev/Aibek.situational.task3/assets/81102375/0cfea958-411a-415e-b73c-5a0584c5bf9f)
